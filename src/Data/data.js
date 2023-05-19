@@ -2,7 +2,7 @@ export const projetos = [
   {
     id: 1,
     name: "winxo",
-    img: "/assets/img/winxo.webp",
+    img: "/assets/img/winxo.png",
     description:
       "Le projet consiste à développer une application en Python qui permettra de calculer le plus court chemin pour un chauffeur de camion afin de distribuer l'essence à toutes les stations-service de Winxo situées à Casablanca. ",
     
